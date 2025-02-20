@@ -37,7 +37,8 @@ const Dashboard = () => {
 
         {/* Logo-section */}
         <div className='flex p-4 md:p-8 border-b border-[#EBEBEB] justify-between items-center'>
-          <img src={logo} alt="logo" className='w-[100px] md:w-[120px] h-auto' />
+          {/* <img src={logo} alt="logo" className='w-[100px] md:w-[120px] h-auto' /> */}
+          Logo
 
           <button
             className="md:hidden text-black text-[20px]"
